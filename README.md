@@ -1,5 +1,5 @@
 # UHK
-A large UHC gamemode Bukkit plugin.
+A full UHC gamemode base, ready to adapted to your needs.
 
 
 A big UHC plugin that I worked on for fun. It is partially finished, so somethings may be missing on have debugs.
