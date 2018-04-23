@@ -1,5 +1,5 @@
 <h2  align="center">UHK</h2>
-<p  align="center">A full UHC gamemode base, ready to adapted to your needs</p>
+<p  align="center">A full-fledge UHC Minecraft gamemode</p>
 
 <br/>
 
